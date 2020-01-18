@@ -158,6 +158,6 @@ I was able to hone my competency with CSS FlexBox, and soldified my grasp on Rea
 - [Benjamin Hong](https://github.com/bhong35)
 - [Sam Lawson](https://github.com/samlawson355)
 - [Matt Lucas](https://github.com/mlucas24)
-- [David Silva](htts://github.com/davidsilva2841)
+- [David Silva](https://github.com/davidsilva2841)
 - [Collin Snyder](https://github.com/Collin-Snyder)
 - [Alyssa Wadley](https://github.com/arwadley)
