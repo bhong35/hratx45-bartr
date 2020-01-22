@@ -1,6 +1,6 @@
 # paperclips - Bartering Application
 
-paperclips is a bartering applciation developed by a team of 7 software engineers.
+paperclips is a bartering application developed by a team of 7 software engineers.
 
 ## In Action
 
@@ -96,28 +96,23 @@ paperclips is a bartering applciation developed by a team of 7 software engineer
     <td align="center"><img src="https://zdnet4.cbsistatic.com/hub/i/r/2018/04/19/092cbf81-acac-4f3a-91a1-5a26abc1721f/resize/370xauto/ce84e38cb1c1a7c5a2c9e4c337e108ba/postgresql-logo.png" alt="PostgreSQL" title="PostgreSQL" width="80px"/></td>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center"><img src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png" alt="Bootstrap" title="Bootstrap" width="80px"/></td>
     <td align="center"><img src="https://i0.wp.com/codeandcoffee.us/wp-content/uploads/2018/07/s3.png?fit=387%2C375" alt="AWS-S3" title="AWS-S3" width="80px"/></td>
     <td align="center"><img src="https://i2.wp.com/sysadminxpert.com/wp-content/uploads/2017/09/rds-logo.jpg?fit=313%2C200&ssl=1" alt="AWS-RDS" title="AWS-RDS" width="80px"/></td>
-  </tr>
-  <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
   </tr>
 </table>
 
 ## Front-End
 
-The product display microservice utilized ReactJS on the front-end.
+Mobile-first development was applied based on the iPhone X. Material Design for Bootstrap was used for styling, while state was stored across paperclips with ReactJS Redux.
 
 ## Back-End
 
-Product information was stored in a MySQL database. Express RESTful APIs are used to enter and retrieve data. Product images were stored in AWS S3.
+Product information was stored in a PostgreSQL database. Express RESTful APIs were used to enter and retrieve data. Product images were stored in AWS S3.
 
 ## Deployment
 
-Docker images were generated to deploy the microservice on AWS Elastic Beanstalk. The MySQL database for the component was hosted on AWS RDS.
+The application was deployed on AWS Elastic Beanstalk. The PostrgresQL database was hosted on AWS RDS.
 
 - This microservice is not currently deployed
 
@@ -130,25 +125,33 @@ Docker images were generated to deploy the microservice on AWS Elastic Beanstalk
 
 Take the following steps to run the app in your localhost, you will need to have the following:
 
-- A MySQL database must be set up, and the appropriate credentials must be added to the config.js file.
+- A PostgreSQL database must be set up, and the appropriate credentials must be added to the config.js file.
 
 From terminal in the index folder:
 
+Front-End (inside client directory):
 ```
 npm install
 npm start
-npm run react-dev
+npm run dev
+```
+
+Back-End (inside server directory):
+```
+npm install
+npm start
+npm run dev
 ```
 
 # Reflections
 
 ## Challenges
 
-This project was focused on exercising my front-end skills with raw CSS. As part of a team of 5, the end product was for the full-stack product display microservice to be incorporated into a proxy server and deployed to complete the Gammazon product page.
+"paperclips" was developed by a team of 7 engineers over a period of a week, based on a client's request. As the product manager, challenges revolved around team communication, task management, and product delivery.
 
 ## Learnings
 
-I was able to hone my competency with CSS FlexBox, and soldified my grasp on ReactJS. Furthermore, I learned to deploy my microservice and proxyserver using a combination of Docker and AWS Elastic Beanstalk. Multiple AWS services including S3 and RDS were learned to implement the app.
+Experience as the product manager was rewarding in that it taught me of the importance of a robust communication and ticketing system to ensure a collaborative environment. Communication was maintained through Slack, while a detailed ticketing system was implemented with Trello. Furthermore, scheduling meetings/presentations with the client, and stand-ups/retrospectives with the paperclips team was an opportunity to practice management and team organization. Balancing managerial responsibilities with assisting development in areas of need was beneficial in exercising time management and task prioritization.
 
 ## Contributors
 
