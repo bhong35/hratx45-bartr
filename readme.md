@@ -6,6 +6,13 @@ paperclips is a bartering application developed by a team of 7 software engineer
 
 ## In Action
 
+![home](./client/dist/assets/media/paperclips-home-login.gif)
+![signup](./client/dist/assets/media/paperclips-signup.gif)
+![feed](./client/dist/assets/media/paperclips-feed.gif)
+![profile1](./client/dist/assets/media/paperclips-profile1.gif)
+![profile2](./client/dist/assets/media/paperclips-profile2.gif)
+![messages](./client/dist/assets/media/paperclips-messages.gif)
+
 ## Table of Contents
 
 1. [UserStories](#userstories)
