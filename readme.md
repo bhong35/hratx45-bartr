@@ -114,7 +114,7 @@ Product information was stored in a PostgreSQL database. Express RESTful APIs we
 
 The application was deployed on AWS Elastic Beanstalk. The PostrgresQL database was hosted on AWS RDS.
 
-- This microservice is not currently deployed
+- This application is not currently deployed
 
 ## Requirements
 
