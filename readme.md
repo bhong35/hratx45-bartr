@@ -1,6 +1,6 @@
 # paperclips - Bartering Application
 
-![paperclips](../client/assets/images/logo_purple.png)
+![paperclips](./client/assets/images/logo_purple.png)
 
 paperclips is a bartering application developed by a team of 7 software engineers.
 
