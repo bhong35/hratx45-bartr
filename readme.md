@@ -4,23 +4,34 @@
 
 paperclips is a bartering application developed by a team of 7 software engineers.
 
-## In Action
-
-![home](./client/dist/assets/media/paperclips-home-login.gif)
-![signup](./client/dist/assets/media/paperclips-signup.gif)
-![feed](./client/dist/assets/media/paperclips-feed.gif)
-![profile1](./client/dist/assets/media/paperclips-profile1.gif)
-![profile2](./client/dist/assets/media/paperclips-profile2.gif)
-![messages](./client/dist/assets/media/paperclips-messages.gif)
-
 ## Table of Contents
 
-1. [UserStories](#userstories)
-2. [Stack](#stack)
-3. [GetStarted](#getstarted)
-4. [Reflections](#reflections)
-5. [Contributors](#contributors)
-6. [RelatedProjects](#relatedprojects)
+1. [InAction](#inaction)
+2. [UserStories](#userstories)
+3. [Stack](#stack)
+4. [GetStarted](#getstarted)
+5. [Reflections](#reflections)
+6. [Contributors](#contributors)
+7. [RelatedProjects](#relatedprojects)
+
+## InAction
+
+Home and Login screens
+![home](./client/dist/assets/media/paperclips-home-login.gif)
+
+Signup screen
+![signup](./client/dist/assets/media/paperclips-signup.gif)
+
+Feed screen
+![feed](./client/dist/assets/media/paperclips-feed.gif)
+
+Profile screens
+![profile1](./client/dist/assets/media/paperclips-profile1.gif)
+![profile2](./client/dist/assets/media/paperclips-profile2.gif)
+
+Messages screen
+![messages](./client/dist/assets/media/paperclips-messages.gif)
+
 
 # UserStories
 
