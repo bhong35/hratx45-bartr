@@ -16,20 +16,20 @@ paperclips is a bartering application developed by a team of 7 software engineer
 
 ## InAction
 
-Home and Login screens
+### Home and Login screens
 ![home](./client/dist/assets/media/paperclips-home-login.gif)
 
-Signup screen
+### Signup screen
 ![signup](./client/dist/assets/media/paperclips-signup.gif)
 
-Feed screen
+### Feed screen
 ![feed](./client/dist/assets/media/paperclips-feed.gif)
 
-Profile screens
+### Profile screens
 ![profile1](./client/dist/assets/media/paperclips-profile1.gif)
 ![profile2](./client/dist/assets/media/paperclips-profile2.gif)
 
-Messages screen
+### Messages screen
 ![messages](./client/dist/assets/media/paperclips-messages.gif)
 
 
